@@ -7,12 +7,17 @@
 	border-color: #EDEDED;
 	padding: 5px;
 	border-radius: 3px;
+	outline: 0;
+	
 
 }
 
 .cardbutton:hover
 {
-	background-color: #ADD8E6;
-	border-color: #ADD8E6;
+	color: transparent;
+	text-shadow: 0 0 1em blue, 0 0 0.2em black;
+	opacity: 0.8;
+	background-color: #7d82b9;
+	border-color: #7d82b9;
 	box-shadow: 0px 5px 20px #555;
 }
