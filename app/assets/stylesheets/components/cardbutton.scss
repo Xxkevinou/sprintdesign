@@ -1,0 +1,18 @@
+.cardbutton
+{
+	display: block;
+	margin : auto;
+	color: grey;
+	background-color: #EDEDED;
+	border-color: #EDEDED;
+	padding: 5px;
+	border-radius: 3px;
+
+}
+
+.cardbutton:hover
+{
+	background-color: #ADD8E6;
+	border-color: #ADD8E6;
+	box-shadow: 0px 5px 20px #555;
+}

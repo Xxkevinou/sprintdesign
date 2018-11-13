@@ -1,3 +1,15 @@
+.title
+{
+	color: transparent;
+	text-shadow: 0 0 1em blue, 0 0 0.2em blue;
+	opacity: 0.5;
+     
+	position: sticky;
+	top: 15px;
+	width: 150px;
+	margin: auto;
+	padding-top: 30px;
+}
 
 * {
     margin: 0;
@@ -35,9 +47,3 @@
 	text-align:center; 
 }
 
-.cardbutton
-{
-	display: block;
-	margin : auto;
-
-}
